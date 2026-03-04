@@ -23,6 +23,7 @@ I'm a Computer Science Master's student at Universität Paderborn, specializing 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satria-ui&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satria-ui&theme=darcula&hide_border=false)<br/>
@@ -34,19 +35,15 @@ I'm a Computer Science Master's student at Universität Paderborn, specializing 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satria-ui&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
-
 ## 🚀 Featured Projects
-
 | Project | Description | Tags |
 |--------|-------------|------|
-| [🔍 Explainable GNN](https://github.com/satria-ui/XAI_Mini-Project) | FastRGCN for research group prediction on AIFB RDF dataset with GNNExplainer — 94.4% test accuracy | `GNN` `XAI` `PyTorch` |
+| [🔍 Explainable GNN](https://github.com/satria-ui/XAI_Mini-Project) | FastRGCN for research group prediction on AIFB RDF dataset with GNNExplainer | `GNN` `XAI` `PyTorch` |
 | [💬 EmoChat](https://github.com/Rizkybangkit/EmoChat-C23-PR543) | Android messaging app with real-time voice-based emotion recognition, backed by cloud ML models | `Android` `Kotlin` `ML` |
-| [🎙️ Emotion Recognition](https://github.com/satria-ui/TugasAkhir2023) | Hybrid CNN + Transformer model for speech emotion recognition — 74% accuracy on CREMA-D, RAVDESS, SAVEE | `Deep Learning` `Audio` `NLP` |
+| [🎙️ Emotion Recognition](https://github.com/satria-ui/TugasAkhir2023) | Hybrid CNN + Transformer model for speech emotion recognition on CREMA-D, RAVDESS, SAVEE | `Deep Learning` `Audio` `NLP` |
 | [📊 PAPyA](https://github.com/DataSystemsGroupUT/PAPyA) | Open-source Python library for prescriptive performance analytics of RDF knowledge graphs on SparkSQL | `Big Data` `RDF` `SparkSQL` |
 
-
 ## 🌐 Languages
-
 🇮🇩 Indonesian (Native) · 🇬🇧 English (C1) · 🇩🇪 German (A2 – learning!)
 
 ---
