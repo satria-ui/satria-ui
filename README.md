@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a Computer Science Master's student at Universität Paderborn, specializing in Artificial Intelligence, Data-Driven Systems, and scalable architectures.<br>My journey so far:<br><br>🇮🇩 Bachelor's in Informatics @ Institut Teknologi Sepuluh Nopember (ITS), Indonesia<br>🇫🇷 Student Exchange & Research @ INSA Lyon, France<br>🇩🇪 Master's (Year 1) @ University of Bayreuth → now @ Universität Paderborn<br><br>I'm passionate about building intelligent, scalable, and human-centered systems to support research and real-world applications.
+I'm a Computer Science Master's student at Universität Paderborn, specializing in Artificial Intelligence, Data-Driven Systems, and scalable architectures.<br><br>My journey so far:<br><br>🇮🇩 Bachelor's in Informatics @ Institut Teknologi Sepuluh Nopember (ITS), Indonesia<br>🇫🇷 Student Exchange & Research @ INSA Lyon, France<br>🇩🇪 Master's (Year 1) @ University of Bayreuth → now @ Universität Paderborn<br><br>Passionate on building intelligent, scalable, and human-centered systems to support research and real-world applications.
 
 
 ## 🌐 Socials:
